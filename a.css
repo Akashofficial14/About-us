@@ -193,7 +193,7 @@ button{
     font-size: 6vw;
     font-weight: 500;
 }
-#first,#second,#fourth{
+#first,#fourth{
     object-position: top;
 }
 
@@ -215,4 +215,5 @@ button{
     scale: 1.1;
     margin-bottom: 3vw;
 }
+
 }
